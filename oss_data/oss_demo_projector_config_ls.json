@@ -1,0 +1,15 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "1node_names",
+      "tensorShape": [100000, 768],
+      "tensorPath": "oss_data/ls/vis1/1node_names_embedding.tsv",
+      "metadataPath": "oss_data/ls/vis1/1node_names.tsv"
+    }
+  ],
+  "modelCheckpointPath": "Demo datasets"
+}
+
+
+
+
